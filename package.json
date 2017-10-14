@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/sum1991/SocialManagement/issues"
   },
-  "homepage": "https://github.com/sum1991/SocialManagement#readme"
+  "homepage": "https://github.com/sum1991/SocialManagement#readme",
+  "devDependencies": {
+    "mongoose": "^4.12.1"
+  }
 }
